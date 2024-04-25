@@ -1,0 +1,54 @@
+body{
+   
+    font-family: Lato;
+    text-decoration: none;
+    background-color: skyblue;
+    text-align: center;
+    padding: 50px 350px;
+}
+
+.main{
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.head{
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
+    background: white;
+    border-radius: 10px;
+    border-bottom: 1px solid black;
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.dtw{
+   border: 1px solid black;
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    margin: 30px;
+    padding-block: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.titleHead{
+    font-size: x-large;
+    font-weight: bolder;
+    
+}
